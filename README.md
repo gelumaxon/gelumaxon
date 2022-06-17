@@ -1,5 +1,5 @@
 ### Hi 👋
-I'm Gelumaxon but you can call me Gelu, I've been a dev for 2 years but I'm going to start making free plugins now.
+I'm Gelumaxon but you can call me Gelu, I've been a dev for 1 years but I'm going to start making free plugins now.
 
 <!--
 **gelumaxon/gelumaxon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
